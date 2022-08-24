@@ -7,7 +7,7 @@
 **[3]** PyTelegramBotAPI -> `pip3 install pytelegrambotapi`                                                         
 
 # Installation                                  
-**[1]** `sudo apt install python3 git python-pip`                                
+**[1]** Install ` python3 git pip`                                
 **[2]** `git clone https://github.com/SlavPH/WeatherBot`                                             
 **[3]** `cd WeatherBot`                                              
 **[4]** `chmod +x *`                                     
