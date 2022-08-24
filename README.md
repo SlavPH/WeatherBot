@@ -2,12 +2,11 @@
 >Telegram weather bot
 
 # Requirements
-**[1]** Token from [@botfather](https://t.me/botfather)
-**[2]** Api key from [here](https://openweathermap.org)
-**[3]** PyTelegramBotAPI -> `pip3 install pytelegrambotapi`
+**[1]** Token from [@botfather](https://t.me/botfather)                                                           
+**[2]** Api key from [here](https://openweathermap.org)                                                    
+**[3]** PyTelegramBotAPI -> `pip3 install pytelegrambotapi`                                                         
 
-# Installation
-**apt:**                                  
+# Installation                                  
 **[1]** `sudo apt install python3 git python-pip`                                
 **[2]** `git clone https://github.com/SlavPH/WeatherBot`                                             
 **[3]** `cd WeatherBot`                                              
