@@ -6,6 +6,9 @@
 **[2]** Api key from [here](https://openweathermap.org)                                                    
 **[3]** PyTelegramBotAPI -> `pip3 install pytelegrambotapi`                                                         
 
+# Config
+**!** Edit **config.py** and add your **Token** and **API key** 
+
 # Installation                                  
 **[1]** Install ` python3 git pip`                                
 **[2]** `git clone https://github.com/SlavPH/WeatherBot`                                             
