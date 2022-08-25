@@ -25,8 +25,8 @@ def start_command(message):
     bot.send_chat_action(message.chat.id, "typing")
     bot.reply_to(message, Start.format(user))
 
-# Dash messages
-@bot.message_handler(content_types=['text'])
+# All messages
+@bot.message_handler(func=lambda message: True)
 def all_messages(message):
 
     city = message.text
@@ -41,3 +41,4 @@ def all_messages(message):
         bot.edit_message_text(text="Error: Could not get result!", chat_id=message.chat.id, message_id=msg1.message_id) 
 
 bot.infinity_polling()
+#SlavPH
