@@ -1,5 +1,5 @@
 # WeatherBot
->Telegram weather bot
+>Telegram weather bot using **telebot**
 
 # Requirements
 **[1]** Token from [@botfather](https://t.me/botfather)                                                           
